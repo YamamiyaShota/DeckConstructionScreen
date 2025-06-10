@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a567ec915e6808428363962488d81a3, type: 3}
+  m_Name: CardData
+  m_EditorClassIdentifier: 
+  cardList:
+  - getNumber: 0
+    cost: 1
+    helthPoint: 10
+    icon: {fileID: 21300000, guid: cefadf9d3a2f802439366f57d18efab2, type: 3}
+  - getNumber: 0
+    cost: 5
+    helthPoint: 20
+    icon: {fileID: 21300000, guid: 92b3451e65505f54e8d855a8553cfffe, type: 3}
+  - getNumber: 0
+    cost: 8
+    helthPoint: 70
+    icon: {fileID: 21300000, guid: c2e58ac589dd9784fb054aaae6c6ad61, type: 3}
+  - getNumber: 0
+    cost: 1
+    helthPoint: 60
+    icon: {fileID: 21300000, guid: e582bb81914dc0b4980ed9e8ee21073d, type: 3}
+  - getNumber: 0
+    cost: 5
+    helthPoint: 40
+    icon: {fileID: 21300000, guid: 4eb0ae23664f1a540b7aa4c88dd05bd2, type: 3}
+  - getNumber: 0
+    cost: 2
+    helthPoint: 40
+    icon: {fileID: 21300000, guid: b3a02694c4a7a8d4cbf3fd8f897854e5, type: 3}
+  - getNumber: 0
+    cost: 5
+    helthPoint: 90
+    icon: {fileID: 21300000, guid: a106501c77620ee42940c9d19ad40c33, type: 3}
+  - getNumber: 0
+    cost: 3
+    helthPoint: 50
+    icon: {fileID: 21300000, guid: b2d6bac8bd4d5f64d8c972de72e14315, type: 3}
+  - getNumber: 0
+    cost: 5
+    helthPoint: 30
+    icon: {fileID: 21300000, guid: 1dc57553e1254c7448b2522ab692df0b, type: 3}
+  - getNumber: 0
+    cost: 8
+    helthPoint: 40
+    icon: {fileID: 21300000, guid: e1285d48752cdad49b8411db2f81a939, type: 3}
